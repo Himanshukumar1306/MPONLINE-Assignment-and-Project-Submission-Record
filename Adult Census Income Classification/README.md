@@ -1,14 +1,14 @@
 # 💰 Adult Census Income Classification
 
-**Name:** Akshat Garg  
+**Name:** Himanshu Kumar  
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BCE11375
 
-**Application Number:** IN26011052
+**Application Number:** IN26011633
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** himanshu.23bce11375@vitbhopal.ac.in 
 
 A machine learning project that predicts whether an individual's annual income exceeds **$50K** based on demographic and employment features from the **Adult Census Income Dataset** (Kaggle).
 
@@ -172,11 +172,11 @@ Adult Census Income Classification/
 
 | Field | Detail |
 |---|---|
-| **Name** | Akshat Garg |
-| **Registration No.** | 23BCE10641 |
-| **Application No.** | IN26011052 |
+| **Name** | Himanshu Kumar |
+| **Registration No.** | 23BCE11375 |
+| **Application No.** | IN26011633 |
 | **Batch** | 1A |
-| **Email** | akshat.23bce10641@vitbhopal.ac.in |
+| **Email** | himanshu.23bce11375@vitbhopal.ac.in |
 
 ---
 
